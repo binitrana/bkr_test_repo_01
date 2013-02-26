@@ -1,0 +1,1 @@
+binit test license page
